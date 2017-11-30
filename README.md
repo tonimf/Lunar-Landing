@@ -13,4 +13,4 @@
 - La luna en la parte inferior autoescalable para que se vaya adaptando a las diferentes resoluciones.
 - Panel de Control, donde he puesto una información fictícia.
 - Opciones del juego que mas adelante incorporarán enlaces con mas datos.
-### https://cdn.rawgit.com/tonimf/Lunar-Landing/c38704a5/index.html
+### https://cdn.rawgit.com/tonimf/Lunar-Landing/9fa74b5b/index.html
