@@ -1,0 +1,55 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 150px;
+  background-color: black;
+}
+#panel {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  padding: 20px;
+  background-color: #d8ecf7;
+  width: 35%;
+  height: 15%;
+}
+#nave {
+   width: 10%;
+   height: 10%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   margin-top: -65px;
+   margin-left: -35px;
+}
+#opciones {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  overflow: hidden;
+  padding: 20px;
+  background-color: #a7a8a9;
+  width: 35%;
+  height: 15%;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+
+}
+
+p {
+    font-family: arial;
+    font-size: 10px;
+}
+
+li {
+    font-family: arial;
+    font-size: 10px;
+}
